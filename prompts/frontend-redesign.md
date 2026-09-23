@@ -44,9 +44,9 @@ Create strong hierarchy, alignment, rhythm, and spacing.
 
 The first viewport should immediately communicate:
 
-* what the product is,
-* its visual identity,
-* the primary action or information hierarchy.
+- what the product is,
+- its visual identity,
+- the primary action or information hierarchy.
 
 Avoid unnecessary dead space, but do not overcrowd the interface.
 
@@ -56,19 +56,19 @@ Use grids deliberately and allow asymmetry where it improves composition.
 
 Do not default to:
 
-* excessive rounded cards
-* cards nested inside cards
-* pill-shaped containers everywhere
-* excessive glassmorphism
-* arbitrary glowing gradients
-* decorative blobs with no purpose
-* excessive shadows
-* every section becoming a Bento grid
-* identical section layouts repeated down the page
-* oversized hero text without supporting composition
-* unnecessary badges or chips
-* generic emoji icons
-* decorative UI elements that do not improve hierarchy or usability
+- excessive rounded cards
+- cards nested inside cards
+- pill-shaped containers everywhere
+- excessive glassmorphism
+- arbitrary glowing gradients
+- decorative blobs with no purpose
+- excessive shadows
+- every section becoming a Bento grid
+- identical section layouts repeated down the page
+- oversized hero text without supporting composition
+- unnecessary badges or chips
+- generic emoji icons
+- decorative UI elements that do not improve hierarchy or usability
 
 Every visual element should have a reason to exist.
 
@@ -100,10 +100,10 @@ Respect reduced-motion preferences.
 
 Design intentionally for:
 
-* mobile
-* tablet
-* laptop
-* large desktop
+- mobile
+- tablet
+- laptop
+- large desktop
 
 Do not simply shrink the desktop layout.
 
@@ -113,13 +113,13 @@ Reconsider hierarchy, navigation, spacing, typography, grouping, and interaction
 
 Maintain:
 
-* semantic HTML
-* keyboard navigation
-* visible focus states
-* sufficient color contrast
-* accessible form controls and labels
-* appropriate ARIA only where necessary
-* reduced-motion support
+- semantic HTML
+- keyboard navigation
+- visible focus states
+- sufficient color contrast
+- accessible form controls and labels
+- appropriate ARIA only where necessary
+- reduced-motion support
 
 ### Production Quality
 
@@ -146,4 +146,20 @@ Keep implementation readable, maintainable, and extensible.
 
 Before considering the work complete, critically inspect the result for:
 
-* weak or
+- weak or unclear hierarchy
+- inconsistent spacing
+- repetitive layouts
+- excessive card usage
+- generic AI-design patterns
+- inconsistent typography
+- unnecessary decoration
+- poor responsive behavior
+- inaccessible contrast or controls
+- missing hover/focus/active/loading/disabled states
+- visual inconsistency between screens
+- broken functionality
+- unnecessary code duplication
+
+Fix these issues rather than merely describing them.
+
+The finished result should feel like a coherent product with a recognizable design language—not a collection of individually attractive components.
